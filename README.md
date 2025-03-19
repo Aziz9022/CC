@@ -477,3 +477,78 @@ ChatClient.java
       }
       }
       }
+
+
+
+practical 5-9
+
+
+5 Implement xen virtualization and manage with xen centre
+1.	Click on new virtual machine and then click on next button
+2.	Click on next
+3.	Select the disc image file and click on next
+4.	Select the Linux option and click disc
+5.	Set the 50 gb disk size
+6.	Select the iso image file
+7.	After selecting the iso image file power on the virtual machine
+8.	Click on ok
+9.	Accept the license
+10.	Click on ok
+11.	Click on no
+12.	Click on ok 
+13.	Click on ok
+14.	Now set the password and click on ok
+15.	Click on ok
+16.	Select Asia>>Kolkata
+17.	Click on ok
+18.	Click on install xen server
+19.	Now open xencenter software and then enter the username and password
+
+    
+6 Implement virtualization using VMware ESXI SERVER and managing with vcenter
+1.	Click on new virtual machine and then click on next button and select the disc image file 
+2.	Press the continue
+3.	Accept the license Agreement
+4.	Select all the default option which one is recommended by the system
+5.	Enter the password
+6.	Reboot the system
+7.	Install the v sphere client. click on next
+8.	Enter the username and click on next
+9.	Click on install
+10.	Enter the IP address, username n password then login
+ 
+7 Implement server cluster with windows server
+1.	Click on new virtual machine and then click on next button and select the disc image file 
+2.	Click on install now
+3.	Click on second option and click next
+4.	Click on custom option
+5.	Click on next
+6.	Enter username n password
+7.	Enter the system password
+8.	Select the yes option
+9.	Click on add roles and features
+10.	Click on next
+11.	Add the roles
+12.	Click on next
+13.	Write domain name
+14.	Enter password
+    
+8 Implement virtualization
+1.	Because the VMware workstation installer doesn’t allow running on a hyper v virtual machine, we must first uninstall any VMware software that may already be installed on the PC. once VMware has been removed, we can move onto the next step, which is to go to the control panel and select uninstall a program
+2.	Turn windows features on or off by clicking on it. the hyper v option in windows features check is now available
+3.	After restart search for Hyper-V manager in search box and click on that
+4.	We need to setup virtual switch before we can create a virtual machine. Select the option for virtual switch manager
+5.	After choosing external as the connection type, click on “create virtual switch”. Install the windows XP.iso file and create a new virtual switch and virtual machine will start
+
+
+ 
+9 Implement opennebula
+1.	Install oracle vm virtual box 7.0.10, click on next> click on yes> click on install>click on finish
+2.	Click on machine and then new
+3.	Make a folder and give the destination
+4.	Click on add
+5.	Select the opennebula 4.14.2-sandbox
+6.	Click on choose
+7.	Click on next
+8.	Click on next to power on
+
