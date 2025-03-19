@@ -357,11 +357,11 @@ ServerPrime.java
       {
       if(x%i != 0)
       {
-      dout.writeUTF(x + " is Prime");
+      dout.writeUTF(x + " is not Prime");
       }
       else
       {
-      otc.writeUTF(x + " is not Prime");
+      otc.writeUTF(x + " is  Prime");
       }
       }
       }
